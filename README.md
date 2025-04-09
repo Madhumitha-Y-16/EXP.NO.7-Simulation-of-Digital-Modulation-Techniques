@@ -10,17 +10,23 @@ To simulate digital modulation techniques such as:
 python (Google Colab)
 
 ## ALGORITHM:
+
+
 ### Amplitude Shift Keying (ASK)
 1. Define a binary input signal (e.g., [1, 0, 1, 1, 0]).
 2. Set a carrier frequency.
 3. Multiply the carrier by the bit (1 or 0) to get ASK modulated signal.
 4. Plot the input signal, carrier, and ASK signal.
 
+
+
 ### Frequency Shift Keying (FSK)
 1. Define two carrier frequencies: one for bit 1, another for bit 0.
 2. Multiply bit 1 with one frequency, bit 0 with the other.
 3. Concatenate all modulated bits.
 4. Plot the input signal and FSK signal.
+
+
 
 ### Phase Shift Keying (PSK)
 1. Use a single frequency carrier.
