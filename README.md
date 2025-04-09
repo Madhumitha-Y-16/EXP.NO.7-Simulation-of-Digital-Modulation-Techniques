@@ -114,8 +114,14 @@ plt.show()
 ```
 
 ## OUTPUT:
+### ASK OUTPUT:
+![image](https://github.com/user-attachments/assets/c2990b00-396a-4752-ac5a-3e42d0be5557)
 
-![ask,fsk,psk - graph](https://github.com/user-attachments/assets/516fcc14-e998-4954-b4d6-ab12fe058675)
+### FSK OUTPUT:
+![image](https://github.com/user-attachments/assets/20fc4e08-8ecc-4f5a-a133-6b33585c32dc)
+
+### PSK OUTPUT:
+![image](https://github.com/user-attachments/assets/6c7e2e19-64b7-4615-84fc-a359f5715087)
 
  
 ## RESULT:
